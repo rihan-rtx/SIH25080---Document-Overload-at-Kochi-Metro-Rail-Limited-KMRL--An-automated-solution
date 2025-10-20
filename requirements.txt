@@ -1,0 +1,16 @@
+streamlit
+streamlit-authenticator
+pytesseract
+Pillow
+PyPDF2
+python-docx
+transformers
+torch
+sentence-transformers
+pandas
+numpy
+plotly
+python-multipart
+langdetect
+fuzzywuzzy
+python-levenshtein
